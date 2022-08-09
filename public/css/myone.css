@@ -1,0 +1,31 @@
+ .my-input {
+   display:flex;
+   text-align: center;
+   width: 85%;
+   border-right-width: 0;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.my-a {
+  text-align: center;
+
+}
+
+.my-label {
+  margin-top: 10px;
+}
+
+.border-white {
+  border-color: white;
+}
+
+.u-border-white,
+.u-separator-grey-30:after {
+  border-color: #ffffff;
+  stroke: #b3b3b3;
+}
+
+.text-center {
+  text-align: center;
+}
